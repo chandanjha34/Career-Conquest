@@ -1,6 +1,5 @@
 import React from "react";
 import Sidebar from "./Sidebar";
-
 const DashboardPage = () => {
   return (
     <div className="min-h-screen flex flex-col bg-white">
